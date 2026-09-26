@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
-
 I am a PhD student in Medical Imaging with research interests in deep learning, computer vision, and artificial intelligence for medical image analysis.
 
 My research focuses on developing and evaluating reliable deep-learning methods for medical imaging, with particular interest in object detection, image classification, model evaluation, and understanding whether AI systems are learning clinically meaningful image features.
