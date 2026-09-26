@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 # About Me
 
 I am a PhD student in Medical Imaging with research interests in deep learning, computer vision, and artificial intelligence for medical image analysis.
