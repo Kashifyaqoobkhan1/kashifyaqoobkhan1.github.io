@@ -39,4 +39,4 @@ The project aims to facilitate experimental management, model evaluation, and co
 
 ## Research Goal
 
-My broader research goal is to contribute toward the development of medical AI systems that are not only accurate, but also reliable, interpretable, and clinically meaningful.
+My long-term research goal is to contribute to the advancement of artificial intelligence in medical imaging by developing and evaluating robust, reliable, and interpretable computational methods. I aim to promote rigorous experimentation, reproducibility, and meaningful evaluation practices that support the responsible development of AI technologies for healthcare applications.
