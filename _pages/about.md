@@ -14,21 +14,22 @@ My research focuses on the development and systematic evaluation of deep learnin
 ## Research Interests
 
 - Medical Image Analysis
-- Deep Learning
-- Computer Vision
-- Object Detection
-- Medical Image Classification
-- Image Segmentation
-- Explainable Artificial Intelligence
-- Reliable and Trustworthy Medical AI
-- Model Evaluation and Error Analysis
-- Reproducible Machine Learning
+- Deep Learning and Computer Vision
+- Medical Image Classification, Detection, and Segmentation
+- Discriminative and Representation Learning
+- Explainable and Trustworthy Artificial Intelligence
+- Model Robustness and Generalization
+- Model Evaluation, Error Analysis, and Reproducibility
 
 ## Current Research
 
-My current PhD research explores deep-learning methods for medical image analysis, with a particular focus on the relationship between prediction performance and localization accuracy.
+## Current Research
 
-I am interested in understanding whether models are making decisions based on clinically meaningful regions of medical images rather than relying on unrelated or spurious features. This includes investigating false positives, false negatives, localization errors, model confidence, and the limitations of conventional evaluation metrics.
+My current research focuses on developing and evaluating deep learning approaches for medical image analysis, with applications in computer-aided diagnosis and abnormality detection.
+
+I am particularly interested in understanding the performance, robustness, and generalization of artificial intelligence models in medical imaging. My work involves investigating computational approaches for image understanding, model evaluation, and the development of reliable and reproducible deep learning methodologies.
+
+My broader objective is to contribute to advancements in artificial intelligence for medical imaging through systematic experimentation and rigorous evaluation.
 
 ## UniDetect
 
