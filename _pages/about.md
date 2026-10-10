@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Medical Imaging with research interests in deep learning, computer vision, and artificial intelligence for medical image analysis.
+I am a PhD researcher specializing in Medical Image Analysis, with research interests in Deep Learning, Computer Vision, and Artificial Intelligence for healthcare applications.
 
-My research focuses on developing and evaluating reliable deep-learning methods for medical imaging, with particular interest in object detection, image classification, model evaluation, and understanding whether AI systems are learning clinically meaningful image features.
-
-A major part of my work involves investigating how models make predictions, how accurately they localize abnormalities, and how different factors such as preprocessing, model architecture, and evaluation strategies influence model performance and reliability.
+My research focuses on the development and systematic evaluation of deep learning methods for medical image understanding, including object detection, image classification, and segmentation. I am particularly interested in discriminative feature learning, model generalization, interpretability, and the reliability of AI-based predictions. My work also investigates how model architectures, preprocessing techniques, and evaluation strategies influence performance and the ability of AI systems to identify clinically relevant image features.
 
 ## Research Interests
 
