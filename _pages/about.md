@@ -33,9 +33,9 @@ My broader objective is to contribute to advancements in artificial intelligence
 
 ## UniDetect
 
-I am also developing **UniDetect**, a modular research framework for object-detection experiments.
+I am developing **UniDetect**, a research-oriented framework designed to support organized, systematic, and reproducible experiments in object detection.
 
-UniDetect is designed to support systematic and reproducible experimentation with different model architectures, preprocessing strategies, training configurations, and evaluation methods. The framework is being developed to make it easier to compare object-detection experiments and to analyze model behavior in medical imaging applications.
+The project aims to facilitate experimental management, model evaluation, and comparative analysis across computer vision research applications.
 
 ## Research Goal
 
